@@ -3,7 +3,7 @@
 **Purpose**: These instructions tell any coding agent how to install and configure this repository's OpenSpec-aligned workflow into any target project automatically.
 
 Repository source:
-- `https://github.com/LIDR-academy/lidr-specboot`
+- `https://github.com/enricmiralles/lidr-specboot`
 
 Setup file in this repository:
 - `setup-sdd.md` (repository root)
